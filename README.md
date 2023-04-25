@@ -31,3 +31,17 @@ I used Beautifulsoup and Selenium to scrape data from TLOU review's page
     - What's the Most Frequent Words in the Reviews?
     
 - Extract Reviews with Bella Ramsey and Pedro Pascal Mentions and Apply Sentiment Analysis on Them
+
+
+
+##  Libraries used in the project
+
+- [pandas](https://pandas.pydata.org/)
+- [matplotlib](https://matplotlib.org/)
+- [seaborn](https://seaborn.pydata.org/)
+- [wordcloud](https://pypi.org/project/wordcloud/)
+- [pytorch](https://pytorch.org/)
+- [transformers](https://huggingface.co/docs/transformers)
+- [spaCy](https://spacy.io/)
+- [selenium](https://python-visualization.github.io/folium/)
+- [beautifulsoup](https://beautiful-soup-4.readthedocs.io/en/latest/)
