@@ -4,10 +4,6 @@ The series TLOU has become very trendy these days and there have been many contr
 ## Project Overview :
 <img src = "src/plot6.png"/>
 <img src = "src/plot5.png"  />
-<img src = "src/plot4.png"  />
-<img src = "src/plot3.png" />
-<img src = "src/plot2.png"  />
-<img src = "src/plot1.png" />
 
 ### - Scraping TLOU Reviews from IMDB
 I used Beautifulsoup and Selenium to scrape data from TLOU review's page
@@ -32,6 +28,11 @@ I used Beautifulsoup and Selenium to scrape data from TLOU review's page
     
 - Extract Reviews with Bella Ramsey and Pedro Pascal Mentions and Apply Sentiment Analysis on Them
 for this task I used huggingface transformers for **Sentiment Analysis** and Spacy for **NER**
+
+<img src = "src/plot4.png"  />
+<img src = "src/plot3.png" />
+<img src = "src/plot2.png"  />
+<img src = "src/plot1.png" />
 
 
 ##  Libraries used in the project
