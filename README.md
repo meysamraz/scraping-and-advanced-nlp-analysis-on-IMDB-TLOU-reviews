@@ -31,7 +31,7 @@ I used Beautifulsoup and Selenium to scrape data from TLOU review's page
     - What's the Most Frequent Words in the Reviews?
     
 - Extract Reviews with Bella Ramsey and Pedro Pascal Mentions and Apply Sentiment Analysis on Them
-
+for this task I used huggingface transformers for **Sentiment Analysis** and Spacy for **NER**
 
 
 ##  Libraries used in the project
