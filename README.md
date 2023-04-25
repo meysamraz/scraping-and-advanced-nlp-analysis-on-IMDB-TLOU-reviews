@@ -6,7 +6,7 @@ The series TLOU has become very trendy these days and there have been many contr
 <img src = "src/plot5.png"  />
 
 ### - Scraping TLOU Reviews from IMDB
-I used Beautifulsoup and Selenium to scrape data from TLOU review's page
+I used Beautifulsoup and Selenium to scrape data from TLOU review's page (over 1400 reviews)
 
 - Understanding the data
     - Shape of the data
